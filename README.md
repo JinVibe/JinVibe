@@ -1,1 +1,1 @@
-안녕하세요. 안드로이드 개발자를 꿈꾸는 진동현입니다.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<깃허브이름>&layout=compact&theme=dracula)
