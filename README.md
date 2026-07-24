@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ai-usage-cards-swart.vercel.app/api/usage-card?username=JinVibe&gist=fe899adef6bc3c1b637e1c5d44954816&theme=dark">
-  <img src="https://ai-usage-cards-swart.vercel.app/api/usage-card?username=JinVibe&gist=fe899adef6bc3c1b637e1c5d44954816&theme=light" alt="JinVibe's AI usage">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ai-usage-cards-swart.vercel.app/api/usage-card?username=JinVibe&gist=fe899adef6bc3c1b637e1c5d44954816&providers=claude-code&theme=dark">
+  <img src="https://ai-usage-cards-swart.vercel.app/api/usage-card?username=JinVibe&gist=fe899adef6bc3c1b637e1c5d44954816&providers=claude-code&theme=light" alt="JinVibe's AI usage">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://ai-usage-cards-swart.vercel.app/api/card?username=JinVibe&modules=funnel,repos&theme=dark">
